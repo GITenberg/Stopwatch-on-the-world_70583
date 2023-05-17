@@ -1,0 +1,37 @@
+_repo: Stopwatch-on-the-world_70583
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Poulton, Peter
+    alias: Poulton, Nelson
+    birthdate: 1914
+    deathdate: 1972
+    gutenberg_agent_id: '55137'
+    url: http://www.gutenberg.org/2009/agents/55137
+creator:
+  author:
+    agent_name: Gilgannon, Daniel R.
+    gutenberg_agent_id: '55806'
+    url: http://www.gutenberg.org/2009/agents/55806
+description: ''
+gutenberg_issued: '2023-04-18'
+identifiers:
+  gutenberg: '70583'
+language: en
+pgterms:marc905: 20220527135238gilgannon
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Weapons -- Fiction'
+- !lcsh 'Physicists -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Stopwatch on the world
+url: http://www.gutenberg.org/ebooks/70583
