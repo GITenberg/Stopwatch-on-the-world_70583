@@ -8,12 +8,17 @@ contributor:
     deathdate: 1972
     gutenberg_agent_id: '55137'
     url: http://www.gutenberg.org/2009/agents/55137
+covers:
+- cover_type: archival
+  image_path: 70583-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilgannon, Daniel R.
     gutenberg_agent_id: '55806'
     url: http://www.gutenberg.org/2009/agents/55806
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70583#Stopwatch-on-the-world
 gutenberg_issued: '2023-04-18'
 identifiers:
   gutenberg: '70583'
